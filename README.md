@@ -1,9 +1,8 @@
 # Sample Retrofit Example
 This is simple example of fetching data from API endpoints using retrofit library.
-### Screenshot 1
-![Screenshot 1](https://github.com/BibekLama/sample_retrofit_example/blob/master/app/assets/Screenshot_2020-07-07-17-01-08-90.png)
-### Screenshot 2
-![Screenshot 2](https://github.com/BibekLama/sample_retrofit_example/blob/master/app/assets/Screenshot_2020-07-07-17-01-15-36.png)
+## Screenshots
+<img src="https://github.com/BibekLama/sample_retrofit_example/blob/master/app/assets/Screenshot_2020-07-07-17-01-08-90.png" width="40%" title="Splash Screen" alt="Screenshots"></img> 
+<img src="https://github.com/BibekLama/sample_retrofit_example/blob/master/app/assets/Screenshot_2020-07-07-17-01-15-36.png" width="40%" title="Splash Screen" alt="Screenshots"></img>
 
 ***
 
